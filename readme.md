@@ -18,3 +18,10 @@ Open "run_analysis.R" with RStudio and set the Working Directory to the folder w
 Use RStudio to run the code on run_analysis.R.
 
 Two files will created as output: step5.txt and step4.txt
+
+##Packages required
+- plyr
+- reshape
+
+## Version of R used
+3.1.2
